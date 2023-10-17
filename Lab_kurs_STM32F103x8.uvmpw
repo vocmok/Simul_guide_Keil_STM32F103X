@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\2_Keil_tool\asmstrt.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\3_GPIO\GPIO.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\4_RCC\RCC.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\5_NVIC_EXTI\NVIC_EXTI.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\5_SPL_NVIC\SPL_NVIC.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\6_TIM\TIM.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
