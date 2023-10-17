@@ -32,4 +32,8 @@
     <PathAndName>.\6_TIM\TIM.uvprojx</PathAndName>
   </project>
 
+  <project>
+    <PathAndName>.\Kurs_project\Morze.uvprojx</PathAndName>
+  </project>
+
 </ProjectWorkspace>
