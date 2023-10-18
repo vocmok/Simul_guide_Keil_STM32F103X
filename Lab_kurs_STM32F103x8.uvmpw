@@ -36,4 +36,8 @@
     <PathAndName>.\Kurs_project\Morze.uvprojx</PathAndName>
   </project>
 
+  <project>
+    <PathAndName>.\Debounce_filt_sim\Debouncing.uvprojx</PathAndName>
+  </project>
+
 </ProjectWorkspace>
